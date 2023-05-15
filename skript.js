@@ -182,6 +182,7 @@
 //     console.log ("Меньше недели")
 //   }
 
+
 //   let  hours= ( day*24) 
 //   console.log ( hours. toFixed(1) +"  " + "Часов")
 
